@@ -1,0 +1,5 @@
+name: LiteSpwnr
+version: 1.0
+author: insanj
+main: me.insanj.LiteSpwnr.LiteSpwnr
+description: Whenever a user sends in a command with a valid item id number, gives them a stack, or the amount they specify with an argument. Example- /5 or /5 51
