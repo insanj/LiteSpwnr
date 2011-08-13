@@ -1,5 +1,5 @@
 LiteSpwnr - The Most Lightweight Item Spawner Ever Created!
-Version: 1.0
+Version: 1.1
 
 Easy to use, elegantly simple. Just type in an item id, as if it was a command, and get a stack of that item. Type in an item id and an amount, get that amount. All added instantly to your inventory.
 Example: /5 or /5 300
@@ -7,4 +7,4 @@ Example: /5 or /5 300
 Features:
 Spawn items in an instant by typing in the id, or the id and the amount. (/5 or /5 300)
 
-http://forums.bukkit.org/threads/admn-litespwnr-v1-0-the-easiest-most-lightweight-item-spawner-that-exists-1000.31164/
+http://forums.bukkit.org/threads/admn-litespwnr-v1-1-the-easiest-most-lightweight-item-spawner-that-exists-1000.31164/
